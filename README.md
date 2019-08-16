@@ -1,7 +1,15 @@
 # pseudosteganography_image_encryption_algorithm
 <H1>Steps to Setup</H1>
 <OL>
-<LI>Install the required libraries in python using '''pip'''<br>'''pip install {library name}'''</LI>
+<LI>Install the required libraries in python using 
+  '''python
+  pip
+  '''
+  <br>
+  '''python
+  pip install {library name}
+  '''
+  </LI>
 </OL>
 
 <H1>Steps to Test</H1>
