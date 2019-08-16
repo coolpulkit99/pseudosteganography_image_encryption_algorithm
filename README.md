@@ -2,13 +2,13 @@
 <H1>Steps to Setup</H1>
 <OL>
 <LI>Install the required libraries in python using 
-  '''python
+  ```python
   pip
-  '''
+  ```
   <br>
-  '''python
+  ```python
   pip install {library name}
-  '''
+  ```
   </LI>
 </OL>
 
