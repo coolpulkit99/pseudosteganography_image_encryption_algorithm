@@ -1,9 +1,13 @@
 # pseudosteganography_image_encryption_algorithm
 <H1>Steps to Setup</H1>
 Install the required libraries in python using 
-```pip```
+<code>
+pip
+</code>
   <br>
-```pip install {library name}```
+<code>
+  pip install {library name}
+  </code>
 <H1>Steps to Test</H1>
 <OL>
 <LI>Copy the image in the same folder as the script</LI>
